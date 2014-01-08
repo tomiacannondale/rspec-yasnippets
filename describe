@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: describe
 # key: desc
-# binding: direct-keybinding
 # --
 describe $1 do
   $0

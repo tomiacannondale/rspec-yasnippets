@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: it
 # key: it
-# binding: direct-keybinding
 # --
 it "$1" do
   $0

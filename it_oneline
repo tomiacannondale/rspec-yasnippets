@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: it {..}
 # key: it
-# binding: direct-keybinding
 # --
 it { $0 }

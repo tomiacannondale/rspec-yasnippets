@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: before
 # key: bef
-# binding: direct-keybinding
 # --
 before do
   $0
