@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: before
-# key: bef
+# key: before
 # --
 before do
   $0
