@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: it_should_behave_like
+# key: example
+# --
+it_should_behave_like '$1' do
+  $2
+end
