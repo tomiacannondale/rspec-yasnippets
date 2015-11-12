@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
 # name: it_should_behave_like
-# key: example
+# key: shared_examples
 # --
 it_should_behave_like '$1' do
   $2

@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
 # name: include_examples
-# key: example
+# key: include_examples
 # --
 include_examples "$1" do
   $2
