@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
 # name: shared_examples
-# key: example
+# key: shared_examples
 # --
 shared_examples '$1' do
   $2
