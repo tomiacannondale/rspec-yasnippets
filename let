@@ -2,4 +2,6 @@
 # name: let
 # key: let
 # --
-let(:$1) { $0 }
+let(:$1) do
+  $0
+end
