@@ -2,6 +2,6 @@
 # name: include_examples
 # key: include_examples
 # --
-include_examples "$1" do
+include_examples $1 do
   $2
 end

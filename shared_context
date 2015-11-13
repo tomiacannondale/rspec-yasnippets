@@ -2,6 +2,6 @@
 # name: shared_context
 # key: shared_context
 # --
-shared_context '$1' do
+shared_context $1 do
  $2
 end

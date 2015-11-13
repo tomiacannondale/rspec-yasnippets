@@ -3,6 +3,6 @@
 # key: shared_examples
 # binding: direct-keybinding
 # --
-it_behaves_like '$1' do
+it_behaves_like $1 do
   $2
 end
