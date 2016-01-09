@@ -3,5 +3,5 @@
 # key: shared_examples
 # --
 it_should_behave_like $1 do
-  $2
+  $0
 end
