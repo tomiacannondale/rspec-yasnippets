@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
 # name: shared_context
-# key: shared_context
+# key: sharedc
 # --
 shared_context $1 do
  $0

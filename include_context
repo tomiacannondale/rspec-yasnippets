@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
 # name: include_context
-# key: include_context
+# key: sharedc
 # --
 include_context $1 do
   $0
