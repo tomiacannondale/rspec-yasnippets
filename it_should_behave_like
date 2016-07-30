@@ -2,6 +2,6 @@
 # name: it_should_behave_like
 # key: sharede
 # --
-it_should_behave_like $1 do
+it_should_behave_like $1${2: do
   $0
-end
+end}
